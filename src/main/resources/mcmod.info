@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "foodcraft",
+    "name": "Food Craft mod by lasttime.",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["...", "..."],
+    "credits": "Null",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
